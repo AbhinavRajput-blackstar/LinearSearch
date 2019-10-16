@@ -1,1 +1,1 @@
-# LinearSearch
+# Linear Search
